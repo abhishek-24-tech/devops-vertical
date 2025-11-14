@@ -115,7 +115,7 @@ We share case studies that highlight:
 - Impact created  
 - How early DevOps engineers played foundational roles  
 
-👉 **[case-studies/](case-studies/)**
+👉 **[PUBLIC_CASE_STUDIES.md](PUBLIC_CASE_STUDIES.md)**
 
 ---
 
