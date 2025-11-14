@@ -125,7 +125,7 @@ Our evaluation is **conversation-led, not examination-led**.
 We want to understand how you think, not how many tools you know.
 
 Assignment file:  
-👉 **ASSIGNMENT.md** (coming next)
+👉 **[ASSIGNMENT.md](ASSIGNMENT.md)**
 
 ---
 
